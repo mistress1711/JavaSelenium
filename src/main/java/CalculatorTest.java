@@ -23,7 +23,8 @@ public class CalculatorTest {
         System.out.println("Wynik dzielenia: " + division);
         System.out.println("Wynik modulo: " + modulo);
 
-//        Można też bez tej przedostatniej sekcji a tylko tą dać:
+//        blablabla
+//        Można też bez tej przedostatniej sekcji a tylko tą dać :
 //        System.out.println("Wynik dodawania: " + calculator.add(firstNumber, secondNumber));
 //        System.out.println("Wynik odejmowania: " + calculator.sub(firstNumber, secondNumber);
 //        System.out.println("Wynik mnożenia: " + calculator.mult(firstNumber, secondNumber));
